@@ -16,8 +16,8 @@
 ---
 
 
-<h2 align="right">📈 IT Security & Incident Response</h2>
-<p align="right">🚀 With over 3 years of SOC experience, I excel in incident response, threat detection, and using tools like Splunk, AlienVault, and Crowdstrike to secure networks and endpoints.</p>
+<h2 align="left">📈 IT Security & Incident Response</h2>
+<p align="left">🚀 With over 3 years of SOC experience, I excel in incident response, threat detection, and using tools like Splunk, AlienVault, and Crowdstrike to secure networks and endpoints.</p>
 
 ---
 
@@ -28,8 +28,8 @@
 ---
 
 
-<h2 align="right">🌐 Project Management</h2>
-<p align="right">🔧 Skilled in managing security projects using JIRA and Agile SCRUM methodologies, ensuring timely and effective resolution of security incidents.</p>
+<h2 align="left">🌐 Project Management</h2>
+<p align="left">🔧 Skilled in managing security projects using JIRA and Agile SCRUM methodologies, ensuring timely and effective resolution of security incidents.</p>
 
 ---
 
@@ -40,10 +40,8 @@
 ---
 
 
-<h2 align="right">📜 Certifications & Education</h2>
-<p align="right">📚 CompTIA Security+ and RangeForce Certified, with a B.Sc. in Computer Science from the University of Toronto.</p>
-
----
+<h2 align="left">📜 Certifications & Education</h2>
+<p align="left">📚 CompTIA Security+ and RangeForce Certified, with a B.Sc. in Computer Science from the University of Toronto.</p>
 
 
 <h2 align="left">🌟 Core Competencies</h2>
