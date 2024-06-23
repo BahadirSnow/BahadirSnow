@@ -43,6 +43,8 @@
 <h2 align="left">📜 Certifications & Education</h2>
 <p align="left">📚 CompTIA Security+ and RangeForce Certified, with a B.Sc. in Computer Science from the University of Toronto.</p>
 
+---
+
 
 <h2 align="left">🌟 Core Competencies</h2>
 <p align="left">🤝 Clear communication, innovative problem-solving, and adaptability in the ever-evolving tech landscape are my core strengths.</p>
