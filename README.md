@@ -46,4 +46,4 @@
 
 <h2 align="left">🌟 Core Competencies</h2>
 <p align="left">🤝 Clear communication, innovative problem-solving, and adaptability in the ever-evolving tech landscape are my core strengths.</p>
-<p align="right">🤗 Let's connect! I'm always open to chatting about cybersecurity innovations, IT projects, or just geeking out about tech in general!</p>
+<p align="left">🤗 Let's connect! I'm always open to chatting about cybersecurity innovations, IT projects, or just geeking out about tech in general!</p>
